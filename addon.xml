@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.wfmu" name="WFMU" version="1.0.0" provider-name="dexterouslogic.com">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+		<import addon="script.module.xbmcswift2" version="2.0.0"/>
+		<import addon="script.module.requests" version="2.6.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>audio</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Freeform radio station WFMU</summary>
+		<description lang="en">WFMU-FM is a listener-supported, non-commercial radio station broadcasting at 91.1 Mhz FM in Jersey City, NJ, right across the Hudson from lower Manhattan. It is currently the longest running freeform radio station in the United States. The station also broadcasts to the Hudson Valley and Lower Catskills in New York, Western New Jersey and Eastern Pennsylvania via its 90.1 signal at WMFU in Mount Hope, NY. The station maintains an extensive online presence at WFMU.ORG which includes live audio streaming in several formats, over 8 years of audio archives, podcasts and a popular blog.</description>
+		<platform>all</platform>
+		<language>en</language>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website>http://www.dexterouslogic.com/</website>
+		<source>http://github.com/dexterouslogic/wfmu-kodi</source>
+		<email>support@dexterouslogic.com</email>
+	</extension>
+</addon>

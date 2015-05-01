@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- Plugin name -->
+  <string id="30000">WFMU</string>
+  <string id="30001">Live</string>
+  <string id="30002">Archives</string>
+  <string id="30003">Recent Episodes</string>
+  <string id="30004">Entire Archive</string>
+</strings>
