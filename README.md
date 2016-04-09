@@ -4,11 +4,11 @@ This is an audio addon for Kodi to enable access to the live streams and archive
 
 # COMPATIBILITY
 
-I've only tested it with Kodi Version 14 (Helix). It should work with any platform, though.
+I've only tested it with Kodi Version 16 (Helix). It should work with any platform, though.
 
 # INSTALLATION
 
-Download the [latest release](https://github.com/dexterouslogic/plugin.audio.wfmu/releases/download/v1.0.0/plugin.audio.wfmu-1.0.0.zip) (a zip file), place it in a folder accessible to Kodi, then follow the instructions on the [Kodi Wiki](http://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files)
+Download the latest release (a zip file), place it in a folder accessible to Kodi, then follow the instructions on the [Kodi Wiki](http://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files)
 
 # ABOUT
 

@@ -1,6 +1,6 @@
 class Const:
     BASE_URL = "http://wfmu.org"
-    KENZODB_QNAME_URI = 'http://wfmu.org/'
+    KENZODB_QNAME_URI = 'http://kenzodb.com/'
     
     ARCHIVE_CACHE_TTL = 60
 
